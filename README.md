@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo desenvolver o **backend funcional** de um sistema de controle de hotel, chamado **HOTELBAO**, utilizando conceitos avançados de programação backend.
 
-## 📚 Disciplina
+## Disciplina
 
 **Programação Backend**  
 Professor: Bruno Ferreira  
@@ -37,7 +37,7 @@ Nota máxima: 30 pontos
 
 ---
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 ### 1. Cadastro de Clientes e Quartos
 - **Clientes**: código, nome, e-mail, login, senha, celular
@@ -93,7 +93,7 @@ Nota máxima: 30 pontos
 - HATEOAS implementado em todos os endpoints
 - Testes automatizados para todos os endpoints
 
-## 🎁 Extra para Ponto Adicional
+## Extra para Ponto Adicional
 
 - **Frontend opcional**: pode ser feito em Java, JavaScript, Python ou C#.
 - Até **+5 pontos** extras pela qualidade da UX.
