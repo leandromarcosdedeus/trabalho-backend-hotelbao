@@ -9,9 +9,9 @@ Professor: Bruno Ferreira
 Turma: Integral  
 Entrega: até 25/06/2025  
 Apresentação: 26/06/2025  
-Nota máxima: 30 pontos
-Aluno: Leandro Marcos de Deus
-Matrícula: 0056443
+Nota máxima: 30 pontos  
+Aluno: Leandro Marcos de Deus   
+Matrícula: 0056443  
 
 ## Objetivos
 
